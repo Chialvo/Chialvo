@@ -1,6 +1,6 @@
  # Hi there, I'm Chialvo
 
- ### I'm a Student and becoming a Developer!!
+ ### Developer in progress!
  > 🌱 I’m currently learning UI, UX and Backend & Frontend programming
 
 ## Languages and Tools:
