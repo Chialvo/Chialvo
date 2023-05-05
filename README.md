@@ -1,9 +1,7 @@
  # Hi there, I'm Chialvo
 
- ## I'm a Student and becoming a Developer!!
-
-- 🌱 I’m currently learning everything
-- 🥅 2023 Goals: Learn more about UI, UX and Backend & Frontend programming
+ ### I'm a Student and becoming a Developer!!
+ > 🌱 I’m currently learning UI, UX and Backend & Frontend programming
 
 ## Languages and Tools:
 
@@ -18,14 +16,12 @@
 <img align="left" alt="OpenCV" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/opencv/opencv-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sqlite" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Jetbrains" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Pycharm" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
 <img align="left" alt="SSH" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ssh/ssh-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MD" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/markdown/markdown-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Windows" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Ubuntu" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" style="padding-right:10px;" />
 
