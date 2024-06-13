@@ -22,14 +22,6 @@ Hi, I'm Chialvo!
 </pre>
 <hr>
 
-## 🤝 Connect with me
-<p align="center">
-	<a href="mailto:lautarochialvo2005@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/lautaro-chialvo-573102247/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
-
-
-
 
 ## GitHub Stats
 
@@ -55,4 +47,8 @@ Hi, I'm Chialvo!
 </p>
 <br/>
 
-Last Edited on: 13/06/2024
+## 🤝 Connect with me
+<p align="center">
+	<a href="mailto:lautarochialvo2005@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/lautaro-chialvo-573102247/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
