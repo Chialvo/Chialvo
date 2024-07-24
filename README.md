@@ -7,14 +7,13 @@ Hi, I'm Chialvo!
 <br/>
 <p align="center">
 	<a href="https://github.com/Chialvo">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Engineering+Student;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Backend;Student;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
 <hr>
 
 <pre>
-💻 I am a self taught Backend Developer
 📚 I studied at the Villada Technical Institute
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Always working on new projects
@@ -26,8 +25,6 @@ Hi, I'm Chialvo!
 ## GitHub Stats
 
 <br/>
-<summary><b>⚡ Chialvo's Stats</b></summary>
-<br/>
 <p align="center">
 	<a href="https://github.com/Chialvo">
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Chialvo&show_icons=true" alt="Chialvo">
@@ -37,7 +34,7 @@ Hi, I'm Chialvo!
 </p>
 <br/>
 
-<summary><b>⚡ Top Languages</b></summary>
+<summary><b>Top Languages</b></summary>
 <br/>
 
 <p align="center">
@@ -46,9 +43,3 @@ Hi, I'm Chialvo!
 	</a>
 </p>
 <br/>
-
-## 🤝 Connect with me
-<p align="center">
-	<a href="mailto:lautarochialvo2005@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/lautaro-chialvo-573102247/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
