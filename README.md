@@ -19,27 +19,3 @@ Hi, I'm Chialvo!
 🔭 Always working on new projects
 🌱 Learning about nosql databases
 </pre>
-<hr>
-
-
-## GitHub Stats
-
-<br/>
-<p align="center">
-	<a href="https://github.com/Chialvo">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Chialvo&show_icons=true" alt="Chialvo">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chialvo" alt="Chialvo">
-	</a>
-	<br/>
-</p>
-<br/>
-
-<summary><b>Top Languages</b></summary>
-<br/>
-
-<p align="center">
-	<a href="https://github.com/Chialvo">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chialvo&langs_count=8&layout=compact" alt="Chialvo">
-	</a>
-</p>
-<br/>
