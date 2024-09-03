@@ -17,5 +17,5 @@ Hi, I'm Chialvo!
 📚 I studied at the Villada Technical Institute
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Always working on new projects
-🌱 Learning about nosql databases
+🌱 Learning about cloud services
 </pre>
