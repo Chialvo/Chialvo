@@ -1,9 +1,13 @@
+
+
+
 <h1 align="center">
 Hi, I'm Chialvo!
 	<a href="https://github.com/Chialvo" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
+
 <br/>
 <p align="center">
 	<a href="https://github.com/Chialvo">
@@ -11,11 +15,15 @@ Hi, I'm Chialvo!
 	</a>
 </p>
 
-<hr>
+📚 I studied at the Villada Technical Institute<br>📝 I have a strong interest in Data Science and Artificial Intelligence<br>🔭 Always working on new projects<br>🌱 Learning about cloud services
 
-<pre>
-📚 I studied at the Villada Technical Institute
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Always working on new projects
-🌱 Learning about cloud services
-</pre>
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chialvo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Chialvo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
