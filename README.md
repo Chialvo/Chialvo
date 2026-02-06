@@ -8,11 +8,11 @@ Hi, I'm Chialvo!
 <br/>
 <p align="center">
 	<a href="https://github.com/Chialvo">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Student;Backend;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines= Engineering Student;Cybersecurity;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
-📚 I studied at the Villada Technical Institute<br>📝 I have a strong interest in Data Science and Artificial Intelligence<br>🔭 Always working on new projects<br>🌱 Learning about cloud services
+📚 I studied at the Villada Technical Institute<br>📚 Currently studying Systems Engineering<br>📝 I have a strong interest in Cybersecurity<br>🔭 Always working on new projects<br>🌱 Learning about cloud services
 
 
 # 💻 Tech Stack:
